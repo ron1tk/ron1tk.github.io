@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ronit Kapoor</title><link>https://ron1tk.github.io/</link><description>Recent content on Ronit Kapoor</description><generator>Hugo -- 0.148.1</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ron1tk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://ron1tk.github.io/about/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://ron1tk.github.io/about/</guid><description>&lt;p>Hi. I&amp;rsquo;m Ronit Kapoor, a masters student passionate about a variety of areas, including ML Systems, Architecture Optimization, and using ML for neural decoding.&lt;/p>
+&lt;h2 id="background">Background&lt;/h2>
+&lt;p>I am a masters student at Brown University.&lt;/p>
+&lt;h2 id="skills">Skills&lt;/h2>
+&lt;ul>
+&lt;li>Pythons my number one option I&amp;rsquo;m slowly becoming better with CUDA and Triton&lt;/li>
+&lt;li>I&amp;rsquo;ve done a decent amount of work with HPCs.&lt;/li>
+&lt;/ul>
+&lt;h2 id="interests">Interests&lt;/h2>
+&lt;p>I&amp;rsquo;m making this website so that I can have a portfolio for any side projects that I work on.&lt;/p></description></item></channel></rss>

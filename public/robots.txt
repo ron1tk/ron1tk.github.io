@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ron1tk.github.io/sitemap.xml
