@@ -4,7 +4,7 @@ date: 2025-07-20
 draft: false
 ---
 
-![My headshot](/static/images/headshot.jpg)
+![My headshot](images/headshot.jpg)
 
 
 Hi! I'm Ronit Kapoor, a first-year Master's student in Computer Science at Brown University, specializing in Machine Learning. I graduated with High Distinction from Worcester Polytechnic Institute with a 3.95 GPA, and I'm passionate about advancing the field of AI through research and practical applications.
