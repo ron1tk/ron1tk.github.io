@@ -1,4 +1,3 @@
-
 baseURL = 'https://ron1tk.github.io/'
 languageCode = 'en-us'
 title = 'Ronit Kapoor'
@@ -12,13 +11,13 @@ buildExpired = false
 [params]
 env = "production"
 title = "Ronit Kapoor"
-description = "Ronit Kapoor's Portfolio & Blog"
+description = "ML Researcher & Computer Science Graduate Student at Brown University"
 author = "Ronit Kapoor"
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 
 ShowReadingTime = true
-ShowShareButtons = false
+ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
@@ -28,24 +27,28 @@ disableSpecial1stPost = false
 comments = false
 hidemeta = false
 hideSummary = false
-showtoc = false
+showtoc = true
 tocopen = false
 
 [params.profileMode]
 enabled = true
 title = "Ronit Kapoor"
-subtitle = "Developer & Student"
+subtitle = "ML Researcher | Brown University Sc.M. | AI Enthusiast"
 imageUrl = ""
 imageWidth = 120
 imageHeight = 120
 imageTitle = "Ronit Kapoor"
 
 [[params.profileMode.buttons]]
+name = "About"
+url = "/about"
+
+[[params.profileMode.buttons]]
 name = "Projects"
 url = "/projects"
 
 [[params.profileMode.buttons]]
-name = "Posts"
+name = "Research"
 url = "/posts"
 
 [[params.socialIcons]]
@@ -54,11 +57,11 @@ url = "https://github.com/ron1tk"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com/in/yourprofile"
+url = "https://linkedin.com/in/ronit-kapoor-profile"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:your.email@example.com"
+url = "mailto:rkapoor@wpi.edu"
 
 [menu]
 [[menu.main]]
@@ -68,19 +71,19 @@ url = "/"
 weight = 10
 
 [[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects/"
-weight = 20
-
-[[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 30
-
-[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
+weight = 20
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[menu.main]]
+identifier = "research"
+name = "Research"
+url = "/posts/"
 weight = 40

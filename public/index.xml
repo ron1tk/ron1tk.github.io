@@ -1,10 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ronit Kapoor</title><link>https://ron1tk.github.io/</link><description>Recent content on Ronit Kapoor</description><generator>Hugo -- 0.148.1</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ron1tk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://ron1tk.github.io/about/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://ron1tk.github.io/about/</guid><description>&lt;p>Hi. I&amp;rsquo;m Ronit Kapoor, a masters student passionate about a variety of areas, including ML Systems, Architecture Optimization, and using ML for neural decoding.&lt;/p>
-&lt;h2 id="background">Background&lt;/h2>
-&lt;p>I am a masters student at Brown University.&lt;/p>
-&lt;h2 id="skills">Skills&lt;/h2>
-&lt;ul>
-&lt;li>Pythons my number one option I&amp;rsquo;m slowly becoming better with CUDA and Triton&lt;/li>
-&lt;li>I&amp;rsquo;ve done a decent amount of work with HPCs.&lt;/li>
-&lt;/ul>
-&lt;h2 id="interests">Interests&lt;/h2>
-&lt;p>I&amp;rsquo;m making this website so that I can have a portfolio for any side projects that I work on.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ronit Kapoor</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ronit Kapoor</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2025 15:44:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 20 Jul 2025 15:44:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Project</title>
+      <link>http://localhost:1313/projects/first-project/</link>
+      <pubDate>Sun, 20 Jul 2025 15:44:14 -0400</pubDate>
+      <guid>http://localhost:1313/projects/first-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Ronit Kapoor, a first-year Master&amp;rsquo;s student in Computer Science at Brown University, specializing in Machine Learning. I graduated with High Distinction from Worcester Polytechnic Institute with a 3.95 GPA, and I&amp;rsquo;m passionate about advancing the field of AI through research and practical applications.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m currently pursuing my Sc.M. in Computer Science at Brown University, where I&amp;rsquo;m conducting thesis research in machine learning. My academic foundation was built at WPI, where I was active in the Computer Science Honor Society (Upsilon Pi Epsilon) and served as a Student Assistant for the Data Mining course.
+My research interests span across multiple areas of machine learning, from transformer architectures and high-performance computing optimization to neural style transfer and sequence classification. I&amp;rsquo;m particularly drawn to the intersection of theoretical ML research and real-world applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
