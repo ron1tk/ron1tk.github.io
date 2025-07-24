@@ -4,7 +4,7 @@ date: 2025-07-20
 draft: false
 ---
 
-![My headshot](images/headshot.jpg)
+![My headshot](/images/headshot.jpg)
 
 
 Hi! I'm Ronit Kapoor, a first-year Master's student in Computer Science at Brown University, specializing in Machine Learning. I graduated with High Distinction from Worcester Polytechnic Institute with a 3.95 GPA, and I'm passionate about advancing the field of AI through research and practical applications.
@@ -24,7 +24,7 @@ Boston Scientific - Quality systems engineering for medical devices
 
 
 ## Goals
-I'm planning to pursue a PhD after completing my Master's degree, with interests in joining top AI research labs. I'm excited about contributing to the advancement of machine learning through both theoretical research and practical applications that can make a real impact.
+I'm planning to pursue a PhD after completing my Master's degree. I'm excited about contributing to the advancement of machine learning through both theoretical research and practical applications that can make a real impact.
 
 ## Interests
 I'm making this website so that I can have a portfolio for any side projects that I work on. 

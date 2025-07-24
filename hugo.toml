@@ -33,7 +33,7 @@ tocopen = false
 [params.profileMode]
 enabled = true
 title = "Ronit Kapoor"
-subtitle = "ML Researcher | Brown University Sc.M. | AI Enthusiast"
+subtitle = "ML Researcher | Brown University Sc.M."
 imageUrl = ""
 imageWidth = 120
 imageHeight = 120
