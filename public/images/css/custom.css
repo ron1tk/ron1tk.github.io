@@ -1,0 +1,13 @@
+.profile_image {
+    border-radius: 0 !important;
+}
+
+/* Alternative selector if the above doesn't work */
+img[src*="headshot"] {
+    border-radius: 0 !important;
+}
+
+/* More general approach for profile images */
+.profile img, .profileMode img {
+    border-radius: 0 !important;
+}

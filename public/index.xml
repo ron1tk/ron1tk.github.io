@@ -27,11 +27,10 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;My headshot&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/headshot.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Hi! I&amp;rsquo;m Ronit Kapoor, a first-year Master&amp;rsquo;s student in Computer Science at Brown University, specializing in Machine Learning. I graduated with High Distinction from Worcester Polytechnic Institute with a 3.95 GPA, and I&amp;rsquo;m passionate about advancing the field of AI through research and practical applications.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Ronit Kapoor, a first-year Master&amp;rsquo;s student in Computer Science at Brown University, specializing in Machine Learning optimization techniques. I graduated with High Distinction from Worcester Polytechnic Institute with a 3.95 GPA, and I&amp;rsquo;m passionate about advancing the field of AI through research and practical applications.&lt;/p&gt;
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m currently pursuing my Sc.M. in Computer Science at Brown University, where I&amp;rsquo;m conducting thesis research in machine learning. My academic foundation was built at WPI, where I was active in the Computer Science Honor Society (Upsilon Pi Epsilon) and served as a Student Assistant for the Data Mining course.
-My research interests span across multiple areas of machine learning, from transformer architectures and high-performance computing optimization to neural style transfer and sequence classification. I&amp;rsquo;m particularly drawn to the intersection of theoretical ML research and real-world applications.&lt;/p&gt;</description>
+My research interests span across multiple areas of machine learning, from transformer architectures and high-performance computing optimization. I&amp;rsquo;m particularly drawn to the intersection of theoretical ML research and real-world applications. This would include deploy models on edge robotics.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
